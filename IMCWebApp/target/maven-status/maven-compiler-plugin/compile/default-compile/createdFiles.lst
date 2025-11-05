@@ -1,0 +1,12 @@
+com\mycompany\imcwebapp\JakartaRestConfiguration.class
+com\mycompany\imcwebapp\servlets\HistorialRest.class
+com\mycompany\imcwebapp\dao\UsuarioDAO.class
+com\mycompany\imcwebapp\servlets\LoginServlet.class
+com\mycompany\imcwebapp\servlets\CalculoServlet.class
+com\mycompany\imcwebapp\model\Usuario.class
+com\mycompany\imcwebapp\util\ConexionBD.class
+com\mycompany\imcwebapp\dao\CalculoIMCDAO.class
+com\mycompany\imcwebapp\model\IMCUtil.class
+com\mycompany\imcwebapp\servlets\RegistroServlet.class
+com\mycompany\imcwebapp\resources\JakartaEE10Resource.class
+com\mycompany\imcwebapp\model\CalculoIMC.class
